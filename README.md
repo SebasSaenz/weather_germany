@@ -1,2 +1,3 @@
-# weather_germany
+# README
+
 A project to learn reproducible practices
